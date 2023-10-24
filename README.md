@@ -1,4 +1,4 @@
-##  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=8904F7&size=24&multiline=true&width=700&height=75&lines=Hi++there%F0%9F%91%8B%2C+Olá! Eu sou João Guilherme Quintino.)](https://git.io/typing-svg)
+##  Olá! Eu sou João Guilherme Quintino.
 
 - Estudando front-end
 - Aprendendo a criar sites
